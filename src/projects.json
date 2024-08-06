@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Assignment Submission App",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe cupiditate animi tempore neque ratione maiores. Odit, quisquam quam cumque ipsa, ipsam alias totam labore repellat adipisci, molestiae neque a vitae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore tempore quo eos nemo. Modi, eligendi commodi. In perferendis aliquid minima. Incidunt repudiandae assumenda necessitatibus itaque soluta, aliquid consequatur fugiat natus?",
+    "completedOn": "7th May, 2024",
+    "path": "public/assignment-submission-app.png",
+    "hostedAt": "https://prosync.onrender.com/"
+  },
+  {
+    "name": "ToDo App",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe cupiditate animi tempore neque ratione maiores. Odit, quisquam quam cumque ipsa, ipsam alias totam labore repellat adipisci, molestiae neque a vitae? Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore tempore quo eos nemo. Modi, eligendi commodi. In perferendis aliquid minima. Incidunt repudiandae assumenda necessitatibus itaque soluta, aliquid consequatur fugiat natus?",
+    "completedOn": "7th May, 2024",
+    "path": "public/todo-app.png",
+    "hostedAt": "https://noter-1g77.onrender.com/"
+  }
+]

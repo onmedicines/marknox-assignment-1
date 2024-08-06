@@ -1,0 +1,15 @@
+{
+  /* <Routes>
+  <Route path="/" element={<Home />}></Route>
+  <Route path="/About" element={<About />}></Route>
+  <Route path="/Contact" element={<Contact />}></Route>
+  <Route path="/Projects" element={<Projects />}></Route>
+  <Route path="/Resume" element={<Resume />}></Route>
+</Routes>; */
+}
+
+{
+  {projectJSON.map((project) => (
+          <Project projectImgPath={project.path} projectName={project.name} projectAbout={project.about} />
+        ))}
+}
